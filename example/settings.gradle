@@ -1,0 +1,4 @@
+
+include ':app', ':android-sdk'
+
+rootProject.name = "ViceOffersExample"
